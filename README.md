@@ -50,7 +50,7 @@ This project demonstrates how raw and unorganized data can be transformed into a
 
 ## 📸 Dashboard Preview
 
-![Dashboard Screenshot](screenshot.png)
+![Data Professional Survey Breakdown.pdf
 
 ---
 
