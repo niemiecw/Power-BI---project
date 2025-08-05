@@ -1,6 +1,6 @@
 # 📊 Data Professional Survey Breakdown – Power BI Project
 
-This project presents a visual analysis of survey results collected from Data Professionals (e.g., Data Scientists, Data Engineers, Analysts). The goal was to extract valuable insights from raw Excel data and turn it into a clear and interactive dashboard using Power BI.
+This project presents a visual analysis of survey results collected from Data Professionals. The goal was to extract valuable insights from raw Excel data and turn it into a clear and interactive dashboard using Power BI.
 
 ## 🛠️ Tools & Technologies
 - Power BI (main tool for analysis and visualization)
@@ -11,7 +11,7 @@ This project presents a visual analysis of survey results collected from Data Pr
 ## 🔍 Step-by-Step Process
 
 ### 1. 📥 Data Import
-I started by importing the raw, unstructured data directly from an Excel file (`Power BI - Final Project (1).xlsx`) into Power BI.
+I started by importing the raw, unstructured data directly from an Excel file ([Power BI - Project.xlsx](Power%20BI%20-%20Project.xlsx)) into Power BI.
 
 ### 2. 🧹 Data Cleaning & Transformation
 Inside Power BI, I prepared the data for analysis by:
@@ -42,20 +42,16 @@ Then I built an interactive dashboard to present the key findings:
 ---
 
 ## 📁 Files Included
-- `Power BI - Final Project (1).xlsx` – Raw survey data
-- `powerBI_project.pbix` – Final Power BI dashboard with all transformations and visuals
-- `Data Professional Survey Breakdown.pdf` – Exported final dashboard (ready to view)
-- `README.md` – This file
+
+| File | Description |
+|------|-------------|
+| [Power BI - Project.xlsx](Power%20BI%20-%20Project.xlsx) | Raw Excel data used as input |
+| [powerBI_project.pbix](powerBI_project.pbix) | Final Power BI report/dashboard file |
+| [Data Professional Survey Breakdown.pdf](Data%20Professional%20Survey%20Breakdown.pdf) | Exported PDF dashboard view |
+| [README.md](README.md) | Project documentation |
 
 ---
 
 ## ✅ Summary
 
 This project demonstrates how raw and unorganized data can be transformed into a polished and insightful dashboard using Power BI. The visualizations help uncover trends and patterns among data professionals regarding salary, job satisfaction, and technology preferences.
-
----
-
-## 🔗 Author
-
-Created by [Your Name]  
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com) or check out
