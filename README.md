@@ -1,6 +1,6 @@
 # 📊 Data Professional Survey Breakdown – Power BI Project
 
-This project presents a visual analysis of survey results collected from Data Professionals. The goal was to extract valuable insights from raw Excel data and turn it into a clear and interactive dashboard using Power BI.
+This project presents a visual analysis of survey results collected from Data Professionals (e.g., Data Scientists, Data Engineers, Analysts). The goal was to extract valuable insights from raw Excel data and turn it into a clear and interactive dashboard using Power BI.
 
 ## 🛠️ Tools & Technologies
 - Power BI (main tool for analysis and visualization)
@@ -11,7 +11,7 @@ This project presents a visual analysis of survey results collected from Data Pr
 ## 🔍 Step-by-Step Process
 
 ### 1. 📥 Data Import
-I started by importing the raw, unstructured data directly from an Excel file into Power BI.
+I started by importing the raw, unstructured data directly from an Excel file (`Power BI - Final Project (1).xlsx`) into Power BI.
 
 ### 2. 🧹 Data Cleaning & Transformation
 Inside Power BI, I prepared the data for analysis by:
@@ -22,7 +22,7 @@ Inside Power BI, I prepared the data for analysis by:
 - Creating calculated columns where needed
 
 ### 3. 📊 Data Visualization
-Then I built an interactive dashboard (see screenshot) to present the key findings:
+Then I built an interactive dashboard to present the key findings:
 
 - ✅ **Total Survey Takers**: 630  
 - ✅ **Average Age**: 29.87 years  
@@ -35,10 +35,17 @@ Then I built an interactive dashboard (see screenshot) to present the key findin
 
 ---
 
+## 📸 Dashboard Preview (PDF)
+
+👉 [Click to view the full dashboard (PDF)](Data%20Professional%20Survey%20Breakdown.pdf)
+
+---
+
 ## 📁 Files Included
 - `Power BI - Final Project (1).xlsx` – Raw survey data
 - `powerBI_project.pbix` – Final Power BI dashboard with all transformations and visuals
-- `screenshot.png` – Preview of the final dashboard
+- `Data Professional Survey Breakdown.pdf` – Exported final dashboard (ready to view)
+- `README.md` – This file
 
 ---
 
@@ -48,14 +55,7 @@ This project demonstrates how raw and unorganized data can be transformed into a
 
 ---
 
-## 📸 Dashboard Preview
-
-![Data Professional Survey Breakdown.pdf
-
----
-
 ## 🔗 Author
 
-Created by Wiktor Niemiec
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com) or check out more projects on [GitHub](https://github.com)
-
+Created by [Your Name]  
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com) or check out
